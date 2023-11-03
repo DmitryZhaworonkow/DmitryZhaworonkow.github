@@ -1,0 +1,15 @@
+.color{
+    color: antiquewhite;
+    font-size: 20px;
+    font-weight: 300;
+}
+@font-face {
+	font-family: raleway_f;
+	src: url(../fonts/raleway-regular.woff2);
+	font-weight: 700;
+}
+body {
+	background-color: #010101;
+	font-family: raleway_f, sans-serif;
+	line-height: 1.55;
+}
